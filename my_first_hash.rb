@@ -1,6 +1,5 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  your_hash = {"work time" => "1 hour", "break time" => "20 min"}
   
 end
 
